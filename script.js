@@ -631,7 +631,7 @@ route();
     '';
   document.body.append(bg, ui);
 
-  const outline = new Image(); outline.className = "i-outline"; outline.alt = ""; outline.src = "source/logo/outline.png";
+  const outline = new Image(); outline.className = "i-outline"; outline.alt = ""; outline.src = "https://file.garden/auLtjIQv-uq0Ef2-/source/logo/outline.png";
   logoEl.append(outline);
 
   const panel = ui.querySelector(".i-panel"), log = ui.querySelector(".i-log"),
